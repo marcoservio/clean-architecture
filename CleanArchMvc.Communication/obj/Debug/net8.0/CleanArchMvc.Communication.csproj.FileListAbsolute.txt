@@ -1,0 +1,11 @@
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\bin\Debug\net8.0\CleanArchMvc.Communication.deps.json
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\bin\Debug\net8.0\CleanArchMvc.Communication.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\bin\Debug\net8.0\CleanArchMvc.Communication.pdb
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.AssemblyInfoInputs.cache
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.AssemblyInfo.cs
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.csproj.CoreCompileInputs.cache
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\refint\CleanArchMvc.Communication.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\CleanArchMvc.Communication.pdb
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Communication\obj\Debug\net8.0\ref\CleanArchMvc.Communication.dll

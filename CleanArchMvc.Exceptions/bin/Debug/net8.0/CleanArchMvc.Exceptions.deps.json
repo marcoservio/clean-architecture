@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CleanArchMvc.Exceptions/1.0.0": {
+        "runtime": {
+          "CleanArchMvc.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchMvc.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

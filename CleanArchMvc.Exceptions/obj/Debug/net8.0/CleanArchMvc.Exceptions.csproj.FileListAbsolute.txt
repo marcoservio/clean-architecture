@@ -1,0 +1,13 @@
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\bin\Debug\net8.0\CleanArchMvc.Exceptions.deps.json
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\bin\Debug\net8.0\CleanArchMvc.Exceptions.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\bin\Debug\net8.0\CleanArchMvc.Exceptions.pdb
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.ResourceMessagesException.resources
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.csproj.GenerateResource.cache
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.AssemblyInfoInputs.cache
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.AssemblyInfo.cs
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.csproj.CoreCompileInputs.cache
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\refint\CleanArchMvc.Exceptions.dll
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\CleanArchMvc.Exceptions.pdb
+C:\projects\clean-architecture\CleanArchMvc\CleanArchMvc.Exceptions\obj\Debug\net8.0\ref\CleanArchMvc.Exceptions.dll

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\clean-architecture\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1976DA-AC04-4CDC-93BA-5029A24E42C2}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\projects\\clean-architecture\\cleanarchmvc\\cleanarchmvc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1976DA-AC04-4CDC-93BA-5029A24E42C2}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1976DA-AC04-4CDC-93BA-5029A24E42C2}|CleanArchMvc.API\\CleanArchMvc.API.csproj|c:\\projects\\clean-architecture\\cleanarchmvc\\cleanarchmvc.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1976DA-AC04-4CDC-93BA-5029A24E42C2}|CleanArchMvc.API\\CleanArchMvc.API.csproj|solutionrelative:cleanarchmvc.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAB4D93-F926-4607-BD20-C4567CCEE5AC}|CleanArchMvc.Infra.IoC\\CleanArchMvc.CrossCutting.csproj|c:\\projects\\clean-architecture\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependecyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAB4D93-F926-4607-BD20-C4567CCEE5AC}|CleanArchMvc.Infra.IoC\\CleanArchMvc.CrossCutting.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependecyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D86C0CD-69D9-461D-B613-D283C606DF75}|CleanArchMvc.Infrastructure\\CleanArchMvc.Infrastructure.csproj|c:\\projects\\clean-architecture\\cleanarchmvc\\cleanarchmvc.infrastructure\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D86C0CD-69D9-461D-B613-D283C606DF75}|CleanArchMvc.Infrastructure\\CleanArchMvc.Infrastructure.csproj|solutionrelative:cleanarchmvc.infrastructure\\identity\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:47:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.API\\Program.cs",
+              "ToolTip": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.API\\Program.cs",
+              "RelativeToolTip": "CleanArchMvc.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:27:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependecyInjectionApi.cs",
+              "DocumentMoniker": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependecyInjectionApi.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependecyInjectionApi.cs",
+              "ToolTip": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependecyInjectionApi.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependecyInjectionApi.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgv0IAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:19:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedUserRoleInitial.cs",
+              "DocumentMoniker": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.Infrastructure\\Identity\\SeedUserRoleInitial.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infrastructure\\Identity\\SeedUserRoleInitial.cs",
+              "ToolTip": "C:\\projects\\clean-architecture\\CleanArchMvc\\CleanArchMvc.Infrastructure\\Identity\\SeedUserRoleInitial.cs",
+              "RelativeToolTip": "CleanArchMvc.Infrastructure\\Identity\\SeedUserRoleInitial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:53:55.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
